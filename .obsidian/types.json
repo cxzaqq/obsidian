@@ -1,0 +1,19 @@
+{
+  "types": {
+    "123": "checkbox",
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "ㄹㄹㄹ": "multitext",
+    "ㄹㄹㄹㄹ": "number",
+    "ㄹㄹ": "date",
+    "뭐더라": "datetime",
+    "날짜": "date",
+    "날짜, 시간": "datetime",
+    "카테고리": "multitext",
+    "페이지 수": "number",
+    "출간일": "date",
+    "시작일": "date",
+    "완료일": "date"
+  }
+}
