@@ -13,35 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Resource/31 옵시디언 사용법/31.5 캔버스.md",
+                "file": "30 Resource/35 지식관리/35.1 PARA-Zettelkasten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "31.5 캔버스"
+              "title": "35.1 PARA-Zettelkasten"
             }
-          }
-        ]
-      },
-      {
-        "id": "abbfad4f004e98bd",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "38e4dc55c43cd691",
+            "id": "b6d3ce1c96859a25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Resource/31 옵시디언 사용법/31.4 메타데이터.md",
+                "file": "30 Resource/35 지식관리/35.1 PARA-Zettelkasten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "31.4 메타데이터"
+              "title": "35.1 PARA-Zettelkasten"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,44 +194,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "38e4dc55c43cd691",
+  "active": "585e9497a4162d47",
   "lastOpenFiles": [
+    "30 Resource/35 지식관리/영구 보관용 노트 예시.md",
+    "30 Resource/35 지식관리/35.1 PARA-Zettelkasten.md",
+    "30 Resource/31 옵시디언 사용법/31.4 메타데이터.md",
+    "30 Resource/31 옵시디언 사용법/31.3 핵심 기능.md",
+    "30 Resource/31 옵시디언 사용법/31.2 커뮤니티 플러그인.md",
+    "30 Resource/31 옵시디언 사용법/31.1 코어 플러그인.md",
     "10 Projects/11 projects-demo.md",
     "30 Resource/31 옵시디언 사용법/31.5 캔버스.md",
+    "30 Resource/35 지식관리",
+    "30 Resource/31 옵시디언 사용법/31.5.1 캔버스.canvas",
+    "30 Resource/34 Programming/34.1 java/1.md",
+    "private/250627_last_lecture.md",
+    "private/250627_last_lecture",
+    "private",
+    "00 Inbox/00 Note.md",
     "Untitled.md",
-    "template/reading log template.md",
-    "30 Resource/31 옵시디언 사용법/31.4 메타데이터.md",
+    "30 Resource/template/reading log template.md",
     "20 Area/21 Diary/21.1 Daily/2025-07-24.md",
-    "template",
+    "30 Resource/template",
     "20 Area/22 Employment/22.3 cover letter.md",
     "20 Area/22 Employment/22.2 portfolio.md",
     "20 Area/22 Employment/22.1 resume.md",
-    "00 Inbox/00 Note.md",
     "20 Area/22 Employment/Untitled",
     "20 Area/22 Employment",
-    "30 Resource/34 Programming/34.1 java/1.md",
     "30 Resource/32 동기부여/32.1 문구들.md",
     "30 Resource/34 Programming/34.1 java",
     "30 Resource/34 Programming",
     "00 Inbox/02 Daily Plan.md",
     "00 Inbox/01 TODO.md",
-    "30 Resource/31 옵시디언 사용법/31.3 핵심 기능.md",
     "30 Resource/33 0101/33.9 다툼/25.07.02/02.md",
-    "30 Resource/31 옵시디언 사용법/31.2 커뮤니티 플러그인.md",
-    "30 Resource/31 옵시디언 사용법/31.1 코어 플러그인.md",
     "20 Area/21 Diary/21.2 Weekly/2025-7-W30.md",
     "20 Area/21 Diary/21.1 Daily/2025-07-21.md",
     "20 Area/21 Diary/21.2 Weekly/2025-W30.md",
     "20 Area/21 Diary/21.4 Yearly",
     "20 Area/21 Diary/21.3 Monthly",
-    "20 Area/21 Diary/21.2 Weekly",
-    "20 Area/21 Diary/21.1 Daily",
-    "20 Area/21 Diary",
     "2025-07-21.md",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/21.1 응용 SW 기초 기술 활용1.md",
-    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/23 최종 정리.md",
-    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/21.1 응용 SW 기초 기술 활용2.md",
-    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/20 프로그래밍 언어 활용.md",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/순환복잡도문제.png",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/네트워크구축.png",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/OSI참조모델.png",

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"8e78d1eaa54095a8","x":-200,"y":-440,"width":400,"height":400,"type":"group","label":"그룹1"},
+		{"id":"5b2136b9b54c19a5","x":-760,"y":-580,"width":250,"height":60,"color":"4","type":"text","text":"테스트 캔버스 텍스트 "},
+		{"id":"7018013a30b2fec2","x":-710,"y":-440,"width":400,"height":400,"type":"file","file":"30 Resource/31 옵시디언 사용법/31.5 캔버스.md"},
+		{"id":"602d3c6fad3a2b93","x":-149,"y":-380,"width":250,"height":50,"type":"text","text":"1그룹 a"},
+		{"id":"bd2f23100131e9f9","x":-149,"y":-300,"width":250,"height":60,"type":"text","text":"1그룹 b"}
+	],
+	"edges":[
+		{"id":"ce3457b63ae9d8b9","fromNode":"5b2136b9b54c19a5","fromSide":"bottom","toNode":"7018013a30b2fec2","toSide":"top","label":"테스트"}
+	]
+}
