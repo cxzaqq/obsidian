@@ -8,35 +8,68 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8902576653f50f0e",
+            "id": "09ccfb093e6bbb4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Resource/35 지식관리/35.1 PARA-Zettelkasten.md",
+                "file": "20 Area/22 Employment/22.1 resume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "35.1 PARA-Zettelkasten"
+              "title": "22.1 resume"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "68f4f4eeee4a03d3",
+        "type": "tabs",
+        "children": [
           {
             "id": "b6d3ce1c96859a25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Resource/35 지식관리/35.1 PARA-Zettelkasten.md",
+                "file": "20 Area/22 Employment/22.1.1 updated resume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "35.1 PARA-Zettelkasten"
+              "title": "22.1.1 updated resume"
+            }
+          },
+          {
+            "id": "8902576653f50f0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30 Resource/36 Employment/이력서 참고 자료.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "이력서 참고 자료"
+            }
+          },
+          {
+            "id": "45ad6fe2c65dfc10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30 Resource/36 Employment/포트폴리오 참고 자료.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "포트폴리오 참고 자료"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,10 +227,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "585e9497a4162d47",
+  "active": "b6d3ce1c96859a25",
   "lastOpenFiles": [
-    "30 Resource/35 지식관리/영구 보관용 노트 예시.md",
+    "private/250627_last_lecture.md",
+    "20 Area/22 Employment/22.1.1 updated resume.md",
+    "30 Resource/36 Employment/이력서 참고 자료.md",
+    "20 Area/22 Employment/22.1 resume.md",
+    "30 Resource/36 Employment/포트폴리오 참고 자료.md",
     "30 Resource/35 지식관리/35.1 PARA-Zettelkasten.md",
+    "30 Resource/36 Employment",
+    "30 Resource/35 지식관리/영구 보관용 노트 예시.md",
     "30 Resource/31 옵시디언 사용법/31.4 메타데이터.md",
     "30 Resource/31 옵시디언 사용법/31.3 핵심 기능.md",
     "30 Resource/31 옵시디언 사용법/31.2 커뮤니티 플러그인.md",
@@ -207,7 +246,6 @@
     "30 Resource/35 지식관리",
     "30 Resource/31 옵시디언 사용법/31.5.1 캔버스.canvas",
     "30 Resource/34 Programming/34.1 java/1.md",
-    "private/250627_last_lecture.md",
     "private/250627_last_lecture",
     "private",
     "00 Inbox/00 Note.md",
@@ -217,7 +255,6 @@
     "30 Resource/template",
     "20 Area/22 Employment/22.3 cover letter.md",
     "20 Area/22 Employment/22.2 portfolio.md",
-    "20 Area/22 Employment/22.1 resume.md",
     "20 Area/22 Employment/Untitled",
     "20 Area/22 Employment",
     "30 Resource/32 동기부여/32.1 문구들.md",
@@ -228,11 +265,7 @@
     "30 Resource/33 0101/33.9 다툼/25.07.02/02.md",
     "20 Area/21 Diary/21.2 Weekly/2025-7-W30.md",
     "20 Area/21 Diary/21.1 Daily/2025-07-21.md",
-    "20 Area/21 Diary/21.2 Weekly/2025-W30.md",
     "20 Area/21 Diary/21.4 Yearly",
-    "20 Area/21 Diary/21.3 Monthly",
-    "2025-07-21.md",
-    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/21.1 응용 SW 기초 기술 활용1.md",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/순환복잡도문제.png",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/네트워크구축.png",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/OSI참조모델.png",
