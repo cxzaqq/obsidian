@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Area/22 Employment/22.1.1 updated resume.md",
+                "file": "30 Resource/31 옵시디언 사용법/31.6 기타 심화 기능.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22.1.1 updated resume"
+              "title": "31.6 기타 심화 기능"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Resource/35 지식관리/35.1 PARA-Zettelkasten.md",
+                "file": "00 Inbox/01 TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "35.1 PARA-Zettelkasten"
+              "title": "01 TODO"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f3a914a7a2fe9134",
@@ -48,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Resource/36 Employment/포트폴리오 참고 자료.md",
+                "file": "20 Area/22 Employment/22.1 resume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "포트폴리오 참고 자료"
+              "title": "22.1 resume"
             }
           }
         ]
@@ -214,30 +213,33 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8902576653f50f0e",
+  "active": "b6d3ce1c96859a25",
   "lastOpenFiles": [
+    "00 Inbox/01 TODO.md",
+    "30 Resource/31 옵시디언 사용법/31.6 기타 심화 기능.md",
+    "20 Area/22 Employment/22.1 resume.md",
+    "00 Inbox/02 Daily Plan.md",
+    "30 Resource/36 Employment/포트폴리오 참고 자료.md",
+    "20 Area/22 Employment/22.1.1 updated resume.md",
+    "00 Inbox/00 Note.md",
+    "10 Projects/11 projects-demo.md",
+    "30 Resource/35 지식관리/35.1 PARA-Zettelkasten.md",
     "30 Resource/35 지식관리/영구 보관용 노트 예시.md",
     "20 Area/22 Employment/22.2 portfolio.md",
-    "20 Area/22 Employment/22.1.1 updated resume.md",
     "20 Area/22 Employment/images",
     "30 Resource/36 Employment/이력서 참고 자료.md",
-    "20 Area/22 Employment/22.1 resume.md",
-    "30 Resource/36 Employment/포트폴리오 참고 자료.md",
     "private/250627_last_lecture.md",
-    "30 Resource/35 지식관리/35.1 PARA-Zettelkasten.md",
     "30 Resource/36 Employment",
     "30 Resource/31 옵시디언 사용법/31.4 메타데이터.md",
     "30 Resource/31 옵시디언 사용법/31.3 핵심 기능.md",
     "30 Resource/31 옵시디언 사용법/31.2 커뮤니티 플러그인.md",
     "30 Resource/31 옵시디언 사용법/31.1 코어 플러그인.md",
-    "10 Projects/11 projects-demo.md",
     "30 Resource/31 옵시디언 사용법/31.5 캔버스.md",
     "30 Resource/35 지식관리",
     "30 Resource/31 옵시디언 사용법/31.5.1 캔버스.canvas",
     "30 Resource/34 Programming/34.1 java/1.md",
     "private/250627_last_lecture",
     "private",
-    "00 Inbox/00 Note.md",
     "Untitled.md",
     "30 Resource/template/reading log template.md",
     "20 Area/21 Diary/21.1 Daily/2025-07-24.md",
@@ -247,8 +249,6 @@
     "30 Resource/32 동기부여/32.1 문구들.md",
     "30 Resource/34 Programming/34.1 java",
     "30 Resource/34 Programming",
-    "00 Inbox/02 Daily Plan.md",
-    "00 Inbox/01 TODO.md",
     "30 Resource/33 0101/33.9 다툼/25.07.02/02.md",
     "20 Area/21 Diary/21.2 Weekly/2025-7-W30.md",
     "20 Area/21 Diary/21.4 Yearly",
