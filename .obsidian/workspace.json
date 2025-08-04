@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/02 Daily Plan.md",
+                "file": "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/03장 빅 오 표기법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Daily Plan"
+              "title": "03장 빅 오 표기법"
             }
           }
         ],
@@ -196,11 +196,15 @@
   },
   "active": "8902576653f50f0e",
   "lastOpenFiles": [
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/02장 알고리즘이 중요한 까닭.md",
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/03장 빅 오 표기법.md",
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/선형 검색 vs 이진 검색.png",
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images",
+    "00 Inbox/02 Daily Plan.md",
     "00 Inbox/01 TODO.md",
     "00 Inbox/00 Note.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/00 정보.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/01장 자료 구조가 중요한 까닭.md",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/02장 알고리즘이 중요한 까닭.md",
     "30 Resource/36 Employment/이력서 참고 자료.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판",
     "30 Resource/template/reading log template.md",
@@ -208,7 +212,6 @@
     "20 Area/25 DataStructure & Algorithm",
     "20 Area/24 Computer Science",
     "20 Area/23 Network",
-    "00 Inbox/02 Daily Plan.md",
     "20 Area/22 Employment/22.1 resume.md",
     "30 Resource/31 옵시디언 사용법/31.6 기타 심화 기능.md",
     "30 Resource/36 Employment/포트폴리오 참고 자료.md",
@@ -229,10 +232,8 @@
     "30 Resource/31 옵시디언 사용법/31.5.1 캔버스.canvas",
     "30 Resource/34 Programming/34.1 java/1.md",
     "private/250627_last_lecture",
-    "private",
     "Untitled.md",
     "20 Area/21 Diary/21.1 Daily/2025-07-24.md",
-    "20 Area/22 Employment/22.3 cover letter.md",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/순환복잡도문제.png",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/네트워크구축.png",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/OSI참조모델.png",
@@ -241,7 +242,6 @@
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/제어흐름도.png",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/시간복잡도.png",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/V-model.png",
-    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/영역별 출제 문항수.png",
-    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/연계메커니즘.png"
+    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/영역별 출제 문항수.png"
   ]
 }
