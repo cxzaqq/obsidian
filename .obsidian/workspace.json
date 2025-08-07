@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/00 정보.md",
+                "file": "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/6장 긍정적인 시나리오 최적화.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 정보"
+              "title": "6장 긍정적인 시나리오 최적화"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,11 +194,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b6d3ce1c96859a25",
+  "active": "8902576653f50f0e",
   "lastOpenFiles": [
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/00 정보.md",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/5장 빅 오를 사용하거나 사용하지 않는 코드 최적화.md",
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/6장 긍정적인 시나리오 최적화.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/4장 빅 오로 코드 속도 올리기.md",
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/5장 빅 오를 사용하거나 사용하지 않는 코드 최적화.md",
     "private/250627_last_lecture.md",
     "30 Resource/36 Employment/이력서 참고 자료.md",
     "10 Projects/11 projects-demo.md",
@@ -232,7 +234,6 @@
     "30 Resource/31 옵시디언 사용법/31.5 캔버스.md",
     "30 Resource/35 지식관리",
     "30 Resource/31 옵시디언 사용법/31.5.1 캔버스.canvas",
-    "30 Resource/34 Programming/34.1 java/1.md",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/순환복잡도문제.png",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/네트워크구축.png",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/OSI참조모델.png",
