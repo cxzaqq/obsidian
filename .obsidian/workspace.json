@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/06장 긍정적인 시나리오 최적화.md",
+                "file": "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/07장 일상적인 코드 속 빅 오.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06장 긍정적인 시나리오 최적화"
+              "title": "07장 일상적인 코드 속 빅 오"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/07장 일상적인 코드 속 빅 오.md",
+                "file": "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/00 정보.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07장 일상적인 코드 속 빅 오"
+              "title": "00 정보"
             }
           }
         ],
@@ -196,11 +196,14 @@
   },
   "active": "8902576653f50f0e",
   "lastOpenFiles": [
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/00 정보.md",
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/09장 스택과 큐로 간결한 코드 생성.md",
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/08장 해시 테이블로 매우 빠른 룩업.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/07장 일상적인 코드 속 빅 오.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/06장 긍정적인 시나리오 최적화.md",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/05장 빅 오를 사용하거나 사용하지 않는 코드 최적화.md",
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/00 정보.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/04장 빅 오로 코드 속도 올리기.md",
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/05장 빅 오를 사용하거나 사용하지 않는 코드 최적화.md",
+    "20 Area/22 Employment/22.2 portfolio.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/시나리오 그래프.png",
     "private/250627_last_lecture.md",
     "30 Resource/36 Employment/이력서 참고 자료.md",
@@ -226,13 +229,10 @@
     "20 Area/22 Employment/22.1.1 updated resume.md",
     "30 Resource/35 지식관리/35.1 PARA-Zettelkasten.md",
     "30 Resource/35 지식관리/영구 보관용 노트 예시.md",
-    "20 Area/22 Employment/22.2 portfolio.md",
     "20 Area/22 Employment/images",
     "30 Resource/36 Employment",
     "30 Resource/31 옵시디언 사용법/31.4 메타데이터.md",
     "30 Resource/31 옵시디언 사용법/31.3 핵심 기능.md",
-    "30 Resource/31 옵시디언 사용법/31.2 커뮤니티 플러그인.md",
-    "30 Resource/31 옵시디언 사용법/31.1 코어 플러그인.md",
     "30 Resource/35 지식관리",
     "30 Resource/31 옵시디언 사용법/31.5.1 캔버스.canvas",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/순환복잡도문제.png",
