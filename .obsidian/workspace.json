@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/00 누구나 자료구조와 알고리즘 개정2판.md",
+                "file": "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/12장 동적 프로그래밍.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 누구나 자료구조와 알고리즘 개정2판"
+              "title": "12장 동적 프로그래밍"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "efe4aaf8ed812a08",
@@ -196,9 +197,9 @@
   },
   "active": "b6d3ce1c96859a25",
   "lastOpenFiles": [
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/00 누구나 자료구조와 알고리즘 개정2판.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/12장 동적 프로그래밍.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/11장 재귀적으로 작성하는 법.md",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/00 누구나 자료구조와 알고리즘 개정2판.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/10장 재귀를 사용한 재귀적 반복.md",
     "30 Resource/36 Employment/포트폴리오 참고 자료.md",
     "20 Area/22 Employment/22.1 resume.md",
