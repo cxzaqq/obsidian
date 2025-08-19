@@ -8,33 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7fa5500577f437b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/Big-O.png"
-              },
-              "icon": "lucide-image",
-              "title": "Big-O"
-            }
-          },
-          {
-            "id": "b6d3ce1c96859a25",
+            "id": "fe42ad306854c66b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/13장 속도를 높이는 재귀 알고리즘.md",
+                "file": "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/15장 이진 탐색 트리로 속도 향상.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13장 속도를 높이는 재귀 알고리즘"
+              "title": "15장 이진 탐색 트리로 속도 향상"
+            }
+          },
+          {
+            "id": "5e413d01333d3a13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/12.2 데이터 입출력 구현2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12.2 데이터 입출력 구현2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "efe4aaf8ed812a08",
@@ -192,43 +194,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b6d3ce1c96859a25",
+  "active": "fe42ad306854c66b",
   "lastOpenFiles": [
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/Big-O.png",
+    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/12.2 데이터 입출력 구현2.md",
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/15장 이진 탐색 트리로 속도 향상.md",
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/00 누구나 자료구조와 알고리즘 개정2판.md",
+    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/12.1 데이터 입출력 구현1.md",
+    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/13 통합 구현.md",
+    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/14.1 서버 프로그램 구현2.md",
+    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/15 인터페이스 구현.md",
+    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/16 화면 설계.md",
+    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/17 애플리케이션 테스트 관리.md",
+    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/18 SQL 응용.md",
+    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/19 소프트웨어 개발 보안 구축.md",
+    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/20 프로그래밍 언어 활용.md",
+    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/21.1 응용 SW 기초 기술 활용1.md",
+    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/21.1 응용 SW 기초 기술 활용2.md",
+    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/22 제품 소프트웨어 패키징.md",
+    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/23 최종 정리.md",
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/09장 스택과 큐로 간결한 코드 생성.md",
+    "30 Resource/31 옵시디언 사용법/31.3 핵심 기능.md",
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/14장 노드 기반 자료 구조.md",
+    "30 Resource/31 옵시디언 사용법/31.2 커뮤니티 플러그인.md",
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/01장 자료 구조가 중요한 까닭.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/13장 속도를 높이는 재귀 알고리즘.md",
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/Big-O.png",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/시나리오 그래프.png",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/선형 검색 vs 이진 검색.png",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/00 누구나 자료구조와 알고리즘 개정2판.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/12장 동적 프로그래밍.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/11장 재귀적으로 작성하는 법.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/10장 재귀를 사용한 재귀적 반복.md",
     "30 Resource/36 Employment/포트폴리오 참고 자료.md",
-    "20 Area/22 Employment/22.1 resume.md",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/09장 스택과 큐로 간결한 코드 생성.md",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/08장 해시 테이블로 매우 빠른 룩업.md",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/07장 일상적인 코드 속 빅 오.md",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/06장 긍정적인 시나리오 최적화.md",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/05장 빅 오를 사용하거나 사용하지 않는 코드 최적화.md",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/04장 빅 오로 코드 속도 올리기.md",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/03장 빅 오 표기법.md",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/02장 알고리즘이 중요한 까닭.md",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/01장 자료 구조가 중요한 까닭.md",
-    "20 Area/22 Employment/22.2 portfolio.md",
-    "private/250627_last_lecture.md",
-    "30 Resource/36 Employment/이력서 참고 자료.md",
-    "10 Projects/11 projects-demo.md",
     "10 Projects/groo",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images",
-    "00 Inbox/02 Daily Plan.md",
-    "00 Inbox/01 TODO.md",
-    "00 Inbox/00 Note.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판",
-    "30 Resource/template/reading log template.md",
     "20 Area/25 DataStructure & Algorithm/Book",
     "20 Area/25 DataStructure & Algorithm",
     "20 Area/24 Computer Science",
     "20 Area/23 Network",
-    "30 Resource/31 옵시디언 사용법/31.6 기타 심화 기능.md",
     "20 Area/22 Employment/images",
     "30 Resource/36 Employment",
     "30 Resource/35 지식관리",
