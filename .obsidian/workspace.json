@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/15장 이진 탐색 트리로 속도 향상.md",
+                "file": "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/00 누구나 자료구조와 알고리즘 개정2판.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15장 이진 탐색 트리로 속도 향상"
+              "title": "00 누구나 자료구조와 알고리즘 개정2판"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/12.2 데이터 입출력 구현2.md",
+                "file": "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/16장 힙으로 우선순위 유지하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.2 데이터 입출력 구현2"
+              "title": "16장 힙으로 우선순위 유지하기"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "efe4aaf8ed812a08",
@@ -185,6 +185,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -194,11 +195,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fe42ad306854c66b",
+  "active": "5e413d01333d3a13",
   "lastOpenFiles": [
-    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/12.2 데이터 입출력 구현2.md",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/15장 이진 탐색 트리로 속도 향상.md",
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/최소힙.png",
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/16장 힙으로 우선순위 유지하기.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/00 누구나 자료구조와 알고리즘 개정2판.md",
+    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/12.2 데이터 입출력 구현2.md",
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/Big-O.png",
+    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/15장 이진 탐색 트리로 속도 향상.md",
+    "00 Inbox/01 TODO.md",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/12.1 데이터 입출력 구현1.md",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/13 통합 구현.md",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/14.1 서버 프로그램 구현2.md",
@@ -218,13 +223,9 @@
     "30 Resource/31 옵시디언 사용법/31.2 커뮤니티 플러그인.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/01장 자료 구조가 중요한 까닭.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/13장 속도를 높이는 재귀 알고리즘.md",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/Big-O.png",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/시나리오 그래프.png",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/선형 검색 vs 이진 검색.png",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/12장 동적 프로그래밍.md",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/11장 재귀적으로 작성하는 법.md",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/10장 재귀를 사용한 재귀적 반복.md",
-    "30 Resource/36 Employment/포트폴리오 참고 자료.md",
     "10 Projects/groo",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판",
@@ -240,8 +241,6 @@
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/네트워크구축.png",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/OSI참조모델.png",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/프로세스 상태 전이.png",
-    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/연산자우선순위.png",
-    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/제어흐름도.png",
-    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/시간복잡도.png"
+    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/연산자우선순위.png"
   ]
 }
