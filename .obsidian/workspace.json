@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Resource/35 Database/Index.md",
+                "file": "30 Resource/34 Programming/34.1 java/00 java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "00 java"
             }
           },
           {
@@ -27,10 +27,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "30 Resource/35 Database/images/index.png"
+                "file": "30 Resource/34 Programming/34.1 java/images/Type Casting.png"
               },
               "icon": "lucide-image",
-              "title": "index"
+              "title": "Type Casting"
             }
           }
         ]
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "efe4aaf8ed812a08",
@@ -195,9 +194,15 @@
   },
   "active": "e569494e3a3b095b",
   "lastOpenFiles": [
-    "Pasted image 20250925011728.png",
+    "30 Resource/34 Programming/34.1 java/02 변수.md",
+    "30 Resource/34 Programming/34.1 java/images/Type Casting.png",
+    "30 Resource/34 Programming/34.1 java/images/JVM-JRE-JDK.png",
+    "30 Resource/34 Programming/34.1 java/01 개요.md",
     "30 Resource/35 Database/images/index.png",
+    "30 Resource/34 Programming/34.1 java/images",
+    "30 Resource/34 Programming/34.1 java/00 java.md",
     "30 Resource/35 Database/Index.md",
+    "Pasted image 20250925011728.png",
     "private/엔코아.md",
     "30 Resource/35 Database/images",
     "30 Resource/35 Database/00 Database.md",
@@ -224,23 +229,16 @@
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/19장 공간 제약 다루기.md",
     "private/250627_last_lecture.md",
     "00 Inbox/02 Daily Plan.md",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/20장 코드 최적화 기법.md",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/18장 그래프로 뭐든지 연결하기.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/weighted graph.png",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/graph-search.png",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/graph.png",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/17장 트라이(trie)해 보는 것도 나쁘지 않다.md",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/트라이.png",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/최소힙.png",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/Big-O.png",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/시나리오 그래프.png",
-    "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images/선형 검색 vs 이진 검색.png",
     "10 Projects/groo",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판",
     "20 Area/25 DataStructure & Algorithm/Book",
-    "20 Area/25 DataStructure & Algorithm",
-    "30 Resource/31 옵시디언 사용법/31.5.1 캔버스.canvas",
-    "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/images/순환복잡도문제.png"
+    "30 Resource/31 옵시디언 사용법/31.5.1 캔버스.canvas"
   ]
 }
