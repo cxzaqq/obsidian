@@ -27,10 +27,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "30 Resource/34 Programming/34.1 java/images/instance memory.png"
+                "file": "30 Resource/34 Programming/34.1 java/images/interface.png"
               },
               "icon": "lucide-image",
-              "title": "instance memory"
+              "title": "interface"
             }
           },
           {
@@ -104,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 200
   },
   "right": {
     "id": "efe4aaf8ed812a08",
@@ -208,14 +208,16 @@
   },
   "active": "e569494e3a3b095b",
   "lastOpenFiles": [
-    "30 Resource/34 Programming/34.1 java/05 상속.md",
-    "00 Inbox/01 TODO.md",
-    "30 Resource/34 Programming/34.1 java/00 java.md",
-    "20 Area/22 Employment/22.1 resume.md",
     "20 Area/25 DataStructure & Algorithm/coding-test/programmers-practice-kit/hash/1 완주하지 못한 선수.md",
+    "30 Resource/34 Programming/34.1 java/00 java.md",
+    "30 Resource/34 Programming/34.1 java/06 인터페이스.md",
+    "30 Resource/34 Programming/34.1 java/images/interface.png",
+    "30 Resource/34 Programming/34.1 java/images/instance memory.png",
+    "00 Inbox/01 TODO.md",
+    "30 Resource/34 Programming/34.1 java/05 상속.md",
+    "20 Area/22 Employment/22.1 resume.md",
     "00 Inbox/00 Note.md",
     "30 Resource/34 Programming/34.1 java/04 클래스.md",
-    "30 Resource/34 Programming/34.1 java/images/instance memory.png",
     "30 Resource/34 Programming/34.1 java/images/class-instance memory.png",
     "30 Resource/34 Programming/34.1 java/images/enum variable memory.png",
     "30 Resource/34 Programming/34.1 java/03 참조 타입.md",
@@ -225,7 +227,6 @@
     "30 Resource/34 Programming/34.1 java/images/deep copy.png",
     "30 Resource/34 Programming/34.1 java/images/two dimensional array declaration.png",
     "30 Resource/34 Programming/34.1 java/images/array declaration.png",
-    "30 Resource/34 Programming/34.1 java/images/JVM memory.png",
     "README.md",
     "30 Resource/34 Programming/34.1 java/02 변수.md",
     "30 Resource/34 Programming/34.1 java/01 개요.md",
@@ -248,8 +249,6 @@
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.1 문제/정보처리기사 실기 문제.md",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/21.2 응용 SW 기초 기술 활용2.md",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.0 정리/21.1 응용 SW 기초 기술 활용1.md",
-    "30 Resource/31 옵시디언 사용법/31.7.1 영구 보관용 노트 예시.md",
-    "30 Resource/31 옵시디언 사용법/31.7 PARA-Zettelkasten.md",
     "10 Projects/groo",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판/images",
     "20 Area/25 DataStructure & Algorithm/Book/누구나 자료구조와 알고리즘 개정2판",
