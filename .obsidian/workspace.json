@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Area/34 Programming/34.1 java/08 스레드.md",
+                "file": "20 Area/34 Programming/34.1 java/09 컬렉션 프레임워크.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 스레드"
+              "title": "09 컬렉션 프레임워크"
             }
           },
           {
@@ -27,10 +27,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "20 Area/34 Programming/34.1 java/images/thread state.png"
+                "file": "20 Area/34 Programming/34.1 java/images/collection framwork.png"
               },
               "icon": "lucide-image",
-              "title": "thread state"
+              "title": "collection framwork"
             }
           }
         ]
@@ -194,10 +194,12 @@
   },
   "active": "647dff437e1c5317",
   "lastOpenFiles": [
+    "20 Area/34 Programming/34.1 java/00 java.md",
+    "20 Area/34 Programming/34.1 java/09 컬렉션 프레임워크.md",
+    "20 Area/34 Programming/34.1 java/images/collection framwork.png",
     "20 Area/34 Programming/34.1 java/images/thread state.png",
     "20 Area/34 Programming/34.1 java/08 스레드.md",
     "20 Area/34 Programming/34.1 java/images/Exception.png",
-    "20 Area/34 Programming/34.1 java/00 java.md",
     "20 Area/34 Programming/34.1 java/07 예외 처리.md",
     "10 Projects/groo/쿼리 개선.md",
     "10 Projects/cham/쿼리 개선.md",
@@ -233,12 +235,10 @@
     "20 Area/34 Programming/34.1 java/images/instance memory.png",
     "20 Area/34 Programming/34.1 java/05 상속.md",
     "20 Area/34 Programming/34.1 java/04 클래스.md",
-    "20 Area/34 Programming/34.1 java/images/class-instance memory.png",
     "20 Area/34 Programming/34.1 java/03 참조 타입.md",
     "README.md",
     "20 Area/34 Programming/34.1 java/02 변수.md",
     "20 Area/34 Programming/34.1 java/01 개요.md",
-    "20 Area/35 Database/Index.md",
     "30 Resource/31 옵시디언 사용법/31.5.1 캔버스.canvas"
   ]
 }
