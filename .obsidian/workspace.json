@@ -8,17 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4e3fde9773311fc",
+            "id": "4b57d3195b6aa030",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/01 TODO.md",
+                "file": "20 Area/22 Employment/22.2 portfolio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 TODO"
+              "title": "22.2 portfolio"
+            }
+          },
+          {
+            "id": "602de69ed54b41b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 Area/22 Employment/22.1 resume.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "22.1 resume"
+            }
+          },
+          {
+            "id": "cae3aea84c2864d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/인적사항 포함 이력서.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "인적사항 포함 이력서"
             }
           }
         ]
@@ -180,17 +208,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b4e3fde9773311fc",
+  "active": "4b57d3195b6aa030",
   "lastOpenFiles": [
+    "10 Projects/groo/부하 테스트.md",
     "20 Area/22 Employment/22.1 resume.md",
+    "private/인적사항 포함 이력서.md",
+    "00 Inbox/02 Daily Plan.md",
     "00 Inbox/01 TODO.md",
+    "00 Inbox/00 Note.md",
+    "private/일일 할 일.md",
+    "private/증명사진.png",
+    "private/Pasted image 20251103161014.png",
+    "Pasted image 20251103161621.png",
+    "private/AWS 문의.md",
+    "20 Area/22 Employment/22.2 portfolio.md",
+    "README.md",
     "private/취준 에피소드/4.md",
     "private/취준 에피소드/3.md",
-    "10 Projects/groo/부하 테스트.md",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/11.1 문제/정보처리기사 실기 문제.md",
     "40 Archive/25.07.04 ~ 25.07.19 정보처리기사 실기/퀵이지 정보처리기사 실기.md",
     "20 Area/34 Programming/34.1 java/09 컬렉션 프레임워크.md",
-    "20 Area/22 Employment/22.2 portfolio.md",
     "10 Projects/groo/images/diary date after.png",
     "20 Area/23 Network/Book/HTTP 완벽 가이드/1-3 HTTP 메시지.md",
     "20 Area/23 Network/Book/HTTP 완벽 가이드/1-1 HTTP 개관.md",
@@ -202,23 +239,14 @@
     "10 Projects/groo/images/cpu usage.png",
     "diarydate after.png",
     "20 Area/35 Database/Index.md",
-    "10 Projects/groo/images/db connection pool.png",
     "40 Archive/webp.md",
     "private/취준 에피소드/1.md",
     "private/취준 에피소드/5.md",
     "private/취준 에피소드/6.md",
     "private/취준 에피소드/7.md",
     "private/취준 에피소드/2.md",
-    "README.md",
     "20 Area/35 Database/00 Database.md",
-    "20 Area/35 Database/images/index.png",
     "private/취준 에피소드",
-    "private/엔코아.md",
-    "20 Area/34 Programming/34.1 java/00 java.md",
-    "20 Area/34 Programming/34.1 java/images/collection framwork.png",
-    "20 Area/34 Programming/34.1 java/08 스레드.md",
-    "20 Area/34 Programming/34.1 java/07 예외 처리.md",
-    "10 Projects/cham/쿼리 개선.md",
     "10 Projects/groo/images",
     "10 Projects/cham/images",
     "10 Projects/cham",
