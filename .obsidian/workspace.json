@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Area/34 Programming/34.1 java/00 java.md",
+                "file": "20 Area/34 Programming/34.1 java/12 스트림.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 java"
+              "title": "12 스트림"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "31a3219ac921e6ca",
   "lastOpenFiles": [
-    "20 Area/34 Programming/34.1 java/12 스트림.md",
     "20 Area/34 Programming/34.1 java/00 java.md",
+    "20 Area/34 Programming/34.1 java/12 스트림.md",
     "20 Area/34 Programming/34.1 java/11 람다.md",
     "20 Area/34 Programming/34.1 java/10 제네릭스.md",
     "private/일일 할 일.md",
